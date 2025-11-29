@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Liste de la classe - IDA (IFSM)</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        h1, h2 { margin: 0; padding: 0; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px 10px;
+            text-align: left;
+        }
+        thead {
+            background: #f0f0f0;
+            font-weight: bold;
+        }
+        tr:nth-child(even) td {
+            background: #fafafa;
+        }
+        caption {
+            caption-side: top;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Établissement : IFSM</h1>
+<h2>Filière : IDA</h2>
+
+<table>
+    <caption>Liste complète de la classe</caption>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Nom</th>
+            <th>Prénoms</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr><td>1</td><td>AGBADAN</td><td>Goa Jean Marie Vianney</td></tr>
+        <tr><td>2</td><td>ATTA</td><td>Ekra Felix Boabre Karim</td></tr>
+        <tr><td>3</td><td>BAMBA</td><td>Nakyata</td></tr>
+        <tr><td>4</td><td>BILEY</td><td>Ehoule Joseph</td></tr>
+        <tr><td>5</td><td>BLA</td><td>Koffi Christ David Nolan Mals</td></tr>
+        <tr><td>6</td><td>CISSE</td><td>Begnon Rokia</td></tr>
+        <tr><td>7</td><td>COULIBALY</td><td>Bamory</td></tr>
+        <tr><td>8</td><td>COLLIBALY</td><td>Kafandja Fatoumats</td></tr>
+        <tr><td>9</td><td>COULIBALY</td><td>Yele Korotoum</td></tr>
+        <tr><td>10</td><td>DIAKITE</td><td>Alassane</td></tr>
+        <tr><td>11</td><td>DIAKITE</td><td>Yassine Ben-Salla</td></tr>
+        <tr><td>12</td><td>DIALLO</td><td>Abiba</td></tr>
+        <tr><td>13</td><td>DIARRA</td><td>Abdoulaye</td></tr>
+        <tr><td>14</td><td>DIOMANDE</td><td>Assata Roseline</td></tr>
+        <tr><td>15</td><td>DIANI</td><td>Thiomoo-Kindeinin Saida</td></tr>
+        <tr><td>16</td><td>DOUMBIA</td><td>Awa Noura</td></tr>
+        <tr><td>17</td><td>EBROTIE</td><td>Kesse Jean Fernand</td></tr>
+        <tr><td>18</td><td>EHUI</td><td>Yano-Ephraim</td></tr>
+        <tr><td>19</td><td>ETTIEN</td><td>Ekissi Aymeric Canisius</td></tr>
+        <tr><td>20</td><td>FOFANA</td><td>Makouny Man Koluny</td></tr>
+        <tr><td>21</td><td>FOFANA</td><td>Maman</td></tr>
+        <tr><td>22</td><td>FOPANA</td><td>Zoumana</td></tr>
+        <tr><td>23</td><td>GOMONT</td><td>Nogbou Abigael Jean-Josué</td></tr>
+        <tr><td>24</td><td>GUEIDIE</td><td>Zrampica Franck Samuel</td></tr>
+        <tr><td>25</td><td>KAMAGATE</td><td>Yacouba</td></tr>
+        <tr><td>26</td><td>KAMATE</td><td>Aboubacar</td></tr>
+        <tr><td>27</td><td>KEITA</td><td>Noura Munier Jeanne Stephanie</td></tr>
+        <tr><td>28</td><td>KINDO</td><td>Tahirou</td></tr>
+        <tr><td>29</td><td>KOFFI</td><td>Amenan Maric Aude</td></tr>
+        <tr><td>30</td><td>KOFFI</td><td>Ngouan Jonathan Johka</td></tr>
+        <tr><td>31</td><td>KONATE</td><td>Djakaridja Aziz</td></tr>
+        <tr><td>32</td><td>KONE</td><td>Aminata</td></tr>
+        <tr><td>33</td><td>KONE</td><td>Dognon Zakariah</td></tr>
+        <tr><td>34</td><td>KONE</td><td>Moctar</td></tr>
+        <tr><td>35</td><td>KONE</td><td>Yassoungo Maimouna</td></tr>
+        <tr><td>36</td><td>KOUADIO</td><td>Elohim Excel Wilfried</td></tr>
+        <tr><td>37</td><td>KOUADIO</td><td>Koffi Modeste</td></tr>
+        <tr><td>38</td><td>KOUADIO</td><td>Ndri Salomon</td></tr>
+        <tr><td>39</td><td>KOUASSI</td><td>Jean-Marc Wilfried</td></tr>
+        <tr><td>40</td><td>KOUKOUGNON</td><td>Pepin Koudou Didier</td></tr>
+        <tr><td>41</td><td>KRA</td><td>Aya Auriane</td></tr>
+        <tr><td>42</td><td>NANA</td><td>Fatoumata</td></tr>
+        <tr><td>43</td><td>NANGO</td><td>Tanoh Karim Bienvenu</td></tr>
+        <tr><td>44</td><td>N'GUESSAN</td><td>Grahon Martine</td></tr>
+        <tr><td>45</td><td>OKOU</td><td>Yao Patrick Wilfried</td></tr>
+        <tr><td>46</td><td>ONYEKWERE</td><td>Favour Blesing Grace</td></tr>
+        <tr><td>47</td><td>OUATTARA</td><td>Ibrahima Ahmed</td></tr>
+        <tr><td>48</td><td>OUATTARA</td><td>Maimouna</td></tr>
+        <tr><td>49</td><td>OUATTARA</td><td>N'Lodja Kindinnin</td></tr>
+        <tr><td>50</td><td>OUEDRAOGO</td><td>Zakaria</td></tr>
+        <tr><td>51</td><td>OYENIRAN</td><td>Fatia Aziza Salimatou</td></tr>
+        <tr><td>52</td><td>SERY</td><td>Ibrahim</td></tr>
+        <tr><td>53</td><td>SILUE</td><td>Kolotcholoma</td></tr>
+        <tr><td>54</td><td>SYLLA</td><td>Fatoumata Zahra</td></tr>
+        <tr><td>55</td><td>SYLLA</td><td>Gaoussou Abdel Aziz</td></tr>
+        <tr><td>56</td><td>THIENTA</td><td>Aboudramane</td></tr>
+        <tr><td>57</td><td>TOURE</td><td>Mbegnan Hermane</td></tr>
+        <tr><td>58</td><td>TOURE</td><td>Zenab Fatim</td></tr>
+        <tr><td>59</td><td>TRAH</td><td>Djo Eden Diplexe</td></tr>
+        <tr><td>60</td><td>YEBOUE</td><td>Affoué Esther</td></tr>
+        <tr><td>61</td><td>ZAN BI ZAN</td><td>Ange Antonin</td></tr>
+
+    </tbody>
+</table>
+
+</body>
+</html>
